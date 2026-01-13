@@ -45,7 +45,7 @@ Duration: 10 minutes
 Goal: Identify maximum capacity
 
 
-📈 Metrics & KPIs
+## Metrics & KPIs
 Key Performance Indicators
 1-Response Time
 -Average response time for all requests
