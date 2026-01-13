@@ -22,7 +22,7 @@ Test Application: https://blazedemo.com
 - Load Testing
 - Stress Testing
 
-##🧪 Test Scenarios
+## 📊 Test Scenario
 1. Baseline Test
 Purpose: Validate functionality with minimal load
 Threads: 1 user
