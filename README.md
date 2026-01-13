@@ -3,11 +3,11 @@
 ## Project Overview
 This project contains automated performance test scripts for BlazeDemo, a demo flight booking website. The test suite simulates realistic user journeys through the complete booking flow:
 
-1-Visit homepage
-2-Search for flights
-3-Select a flight
-4-Complete purchase with passenger details
-5-Receive confirmation
+-Visit homepage
+-Search for flights
+-Select a flight
+-Complete purchase with passenger details
+-Receive confirmation
 
 Test Application: https://blazedemo.com
 
