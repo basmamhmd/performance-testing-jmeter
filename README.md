@@ -45,7 +45,7 @@ Duration: 10 minutes
 Goal: Identify maximum capacity
 
 
-## Metrics & KPIs
+## 📈 Metrics & KPIs
 Key Performance Indicators
 1-Response Time
 -Average response time for all requests
@@ -67,7 +67,7 @@ Key Performance Indicators
 -Time to first byte
 -Network and server processing time
 
-##Sample Results Summary
+## Sample Results Summary
 =================================================================
 Test: Load Test (25 users, 25s ramp-up)
 =================================================================
@@ -95,7 +95,7 @@ BlazeDemo Website
 JMeter Best Practices
 Performance Testing Guide
 
-📧 Contact
+##📧 Contact
 
 Author: Basma Mohamed Khass
 Email: basmamhmdd22@gmail.com
